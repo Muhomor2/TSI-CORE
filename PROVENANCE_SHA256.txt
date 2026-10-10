@@ -1,0 +1,4 @@
+Original RC2 SHA-256: 677d715fb8a0ec1dc8be3c740226ace1c362bb225796e8ecb60688fa33c9a7f4
+Packaged RC2 SHA-256: 677d715fb8a0ec1dc8be3c740226ace1c362bb225796e8ecb60688fa33c9a7f4
+Historical audited SHA-256: 8a1c1d143397766179a7778436b0f6fa1afbea885a653c771e0b7037af103f96
+Canonical RC2 copied byte-for-byte from the preserved source; no formula edits.
