@@ -1,0 +1,175 @@
+{
+  "status": "PASS",
+  "scope": "finite-example-exhaustive-check; not a proof-assistant verification",
+  "checked_examples": 8,
+  "examples": {
+    "M0_satisfiability": {
+      "typed": true,
+      "axioms": {
+        "AX-C01": true,
+        "AX-C02": true,
+        "AX-C04": true,
+        "AX-C05": true,
+        "AX-C06": true,
+        "AX-C07": true
+      },
+      "AX-C08_structural_all": true,
+      "expected_axioms": {
+        "AX-C01": true,
+        "AX-C02": true,
+        "AX-C04": true,
+        "AX-C05": true,
+        "AX-C06": true,
+        "AX-C07": true
+      },
+      "case_passed": true
+    },
+    "not_AX-C01": {
+      "typed": true,
+      "axioms": {
+        "AX-C01": false,
+        "AX-C02": true,
+        "AX-C04": true,
+        "AX-C05": true,
+        "AX-C06": true,
+        "AX-C07": true
+      },
+      "AX-C08_structural_all": true,
+      "expected_axioms": {
+        "AX-C01": false,
+        "AX-C02": true,
+        "AX-C04": true,
+        "AX-C05": true,
+        "AX-C06": true,
+        "AX-C07": true
+      },
+      "case_passed": true
+    },
+    "not_AX-C02": {
+      "typed": true,
+      "axioms": {
+        "AX-C01": true,
+        "AX-C02": false,
+        "AX-C04": true,
+        "AX-C05": true,
+        "AX-C06": true,
+        "AX-C07": true
+      },
+      "AX-C08_structural_all": false,
+      "expected_axioms": {
+        "AX-C01": true,
+        "AX-C02": false,
+        "AX-C04": true,
+        "AX-C05": true,
+        "AX-C06": true,
+        "AX-C07": true
+      },
+      "case_passed": true
+    },
+    "not_AX-C04": {
+      "typed": true,
+      "axioms": {
+        "AX-C01": true,
+        "AX-C02": true,
+        "AX-C04": false,
+        "AX-C05": true,
+        "AX-C06": true,
+        "AX-C07": true
+      },
+      "AX-C08_structural_all": true,
+      "expected_axioms": {
+        "AX-C01": true,
+        "AX-C02": true,
+        "AX-C04": false,
+        "AX-C05": true,
+        "AX-C06": true,
+        "AX-C07": true
+      },
+      "case_passed": true
+    },
+    "not_AX-C05": {
+      "typed": true,
+      "axioms": {
+        "AX-C01": true,
+        "AX-C02": true,
+        "AX-C04": true,
+        "AX-C05": false,
+        "AX-C06": true,
+        "AX-C07": true
+      },
+      "AX-C08_structural_all": true,
+      "expected_axioms": {
+        "AX-C01": true,
+        "AX-C02": true,
+        "AX-C04": true,
+        "AX-C05": false,
+        "AX-C06": true,
+        "AX-C07": true
+      },
+      "case_passed": true
+    },
+    "not_AX-C06": {
+      "typed": true,
+      "axioms": {
+        "AX-C01": true,
+        "AX-C02": true,
+        "AX-C04": true,
+        "AX-C05": true,
+        "AX-C06": false,
+        "AX-C07": true
+      },
+      "AX-C08_structural_all": true,
+      "expected_axioms": {
+        "AX-C01": true,
+        "AX-C02": true,
+        "AX-C04": true,
+        "AX-C05": true,
+        "AX-C06": false,
+        "AX-C07": true
+      },
+      "case_passed": true
+    },
+    "not_AX-C07": {
+      "typed": true,
+      "axioms": {
+        "AX-C01": true,
+        "AX-C02": true,
+        "AX-C04": true,
+        "AX-C05": true,
+        "AX-C06": true,
+        "AX-C07": false
+      },
+      "AX-C08_structural_all": true,
+      "expected_axioms": {
+        "AX-C01": true,
+        "AX-C02": true,
+        "AX-C04": true,
+        "AX-C05": true,
+        "AX-C06": true,
+        "AX-C07": false
+      },
+      "case_passed": true
+    },
+    "not_AX-C08": {
+      "typed": true,
+      "axioms": {
+        "AX-C01": true,
+        "AX-C02": true,
+        "AX-C04": true,
+        "AX-C05": true,
+        "AX-C06": true,
+        "AX-C07": true
+      },
+      "AX-C08_structural_all": false,
+      "expected_axioms": {
+        "AX-C01": true,
+        "AX-C02": true,
+        "AX-C04": true,
+        "AX-C05": true,
+        "AX-C06": true,
+        "AX-C07": true
+      },
+      "case_passed": true
+    }
+  }
+}
