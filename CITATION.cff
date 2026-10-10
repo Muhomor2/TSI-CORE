@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite this TSI-CORE research specification; its status is a prepublication candidate."
+title: "TSI-CORE-1.0-RC2: Minimal Formal Kernel for Representations and Partial Transformations"
+type: report
+authors:
+  - family-names: Chechelnitsky
+    given-names: Igor
+    orcid: "https://orcid.org/0009-0007-4607-1946"
+version: "1.0-RC2"
+date-released: 2026-07-30
+url: "https://github.com/Muhomor2/TSI-CORE"
+keywords:
+  - formal specification
+  - many-sorted first-order logic
+  - partial transformations
+  - axiom independence
+  - finite models
