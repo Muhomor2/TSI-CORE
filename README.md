@@ -45,7 +45,7 @@ TSI-CORE — компактная многосортная формальная 
 
 **License / Лицензия:** not selected / не выбрана. See [`LICENSE_DECISION.md`](LICENSE_DECISION.md). This package does not presume CC BY, MIT, or any other open license.
 
-**DOI:** none yet / пока отсутствует. The anticipated GitHub address `https://github.com/Muhomor2/TSI-CORE` is a proposed location and must not be treated as a currently published repository until created.
+**DOI:** none yet / пока отсутствует. The repository is currently **private** and undergoing prepublication review; no public release has been issued. / Репозиторий закрыт и находится на предпубликационной проверке; публичный релиз ещё не выпускался.
 
 ## Feedback / Как сообщить об ошибке
 
