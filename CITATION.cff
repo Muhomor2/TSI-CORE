@@ -21,6 +21,7 @@ preferred-citation:
       given-names: Igor
       orcid: "https://orcid.org/0009-0007-4607-1946"
   title: "TSI-CORE-1.0-RC2: Minimal Formal Kernel for Representations and Partial Transformations"
+  doi: "10.5281/zenodo.23322303"
   year: 2026
   version: "1.0-RC2"
   url: "https://github.com/Muhomor2/TSI-CORE"
