@@ -3,7 +3,7 @@
 **Author / Автор:** Igor Chechelnitsky (Игорь Чечельницкий) · [ORCID 0009-0007-4607-1946](https://orcid.org/0009-0007-4607-1946)  
 **Canonical mathematical version / Версия исходного ядра:** `1.0-RC2`, 2026-07-30  
 **Package prepared / Пакет подготовлен:** 2026-10-10  
-**Publication status / Статус:** **Prepublication candidate — independent final audit & proof-assistant verification pending / Кандидат к публикации — независимый заключительный аудит и проверка в системе доказательств не завершены.**
+**Publication status / Статус:** **Public pre-release candidate — independent final audit and proof-assistant verification pending / Публичный предварительный релиз — независимый заключительный аудит и машинная верификация доказательств ещё не завершены.**
 
 ## Choose your edition / Выберите версию
 
@@ -45,7 +45,11 @@ TSI-CORE — компактная многосортная формальная 
 
 **License / Лицензия:** not selected / не выбрана. See [`LICENSE_DECISION.md`](LICENSE_DECISION.md). This package does not presume CC BY, MIT, or any other open license.
 
-**DOI:** none yet / пока отсутствует. The repository is currently **private** and undergoing prepublication review; no public release has been issued. / Репозиторий закрыт и находится на предпубликационной проверке; публичный релиз ещё не выпускался.
+**GitHub release / Публикация GitHub:** [v1.0-RC2](https://github.com/Muhomor2/TSI-CORE/releases/tag/v1.0-RC2) — public pre-release; release source commit `96c45564dfe14e232836e5a9a15fb1598ccbfd84`. / Публичный предварительный релиз; исходный коммит закреплён тегом.
+
+**Zenodo DOI / DOI Zenodo:** [10.5281/zenodo.23322303](https://doi.org/10.5281/zenodo.23322303) — DOI supplied by the author / DOI предоставлен автором. *Zenodo record contents, license, and metadata remain to be independently checked / Содержимое, лицензия и метаданные Zenodo ещё требуют независимой сверки.*
+
+**Audit / Аудит UTS:** [Bilingual independent audit protocol](publication/UTS_TSI_INDEPENDENT_AUDIT_RU_EN.md) / [Двуязычное задание независимым аудиторам](publication/UTS_TSI_INDEPENDENT_AUDIT_RU_EN.md).
 
 ## Feedback / Как сообщить об ошибке
 
