@@ -4,7 +4,9 @@
 **Status:** Invitation to independent review; NO proof of UTS correctness is claimed.  
 **Normative target:** TSI-CORE-1.0-RC2, `docs/TSI-CORE-1.0-RC2.md` in this repository.  
 **UTS target:** An explicitly frozen and cited UTS specification + implementation revision, to be recorded by the auditor before testing.  
-**Version / DOI:** Record the exact TSI version DOI and commit SHA when available. Until then use the RC2 filename and canonical SHA-256 from `PROVENANCE_SHA256.txt`.
+**TSI Zenodo DOI (supplied by author, record metadata not independently confirmed):** [10.5281/zenodo.23322303](https://doi.org/10.5281/zenodo.23322303).  
+**Fixed GitHub release:** [v1.0-RC2](https://github.com/Muhomor2/TSI-CORE/releases/tag/v1.0-RC2), commit `96c45564dfe14e232836e5a9a15fb1598ccbfd84`. The auditor must compare the Zenodo files and license against this tagged snapshot before declaring identical provenance.  
+**Normative source hash:** see `PROVENANCE_SHA256.txt` and rehash the actual deposited manuscript independently.
 
 ## I. Questions to answer (English)
 
