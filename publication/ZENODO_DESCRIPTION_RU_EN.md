@@ -8,7 +8,8 @@
 **Version:** 1.0-RC2 (specification dated 2026-07-30; do not confuse source date with public deposit date).  
 **Publication status:** Public release candidate intended for independent scientific review; not machine-verified or peer-reviewed.  
 **Source:** https://github.com/Muhomor2/TSI-CORE  
-**DOI:** Not assigned. Enter only the actual Zenodo-generated DOI after publication.  
+**Tagged source release:** https://github.com/Muhomor2/TSI-CORE/releases/tag/v1.0-RC2 (commit `96c45564dfe14e232836e5a9a15fb1598ccbfd84`)  
+**DOI supplied by the author:** [10.5281/zenodo.23322303](https://doi.org/10.5281/zenodo.23322303); verify the record metadata, resource type, version and file list directly on Zenodo before citing it as an independently checked publication.  
 **License:** Author's choice required before release. Do not guess or auto-assert a license.
 
 ## Abstract — English
